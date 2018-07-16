@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">KotlinListViewExample</string>
+    <string name="app_name">SimpleKotlinListView</string>
+
 </resources>
